@@ -1,1 +1,1 @@
-![capture d'ecrant de mon projet](./Images/capture.png)
+![capture d'ecrant de mon projet](./images/capture.png)
